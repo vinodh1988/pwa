@@ -1,3 +1,16 @@
 .bg-red{
     background-color: #E74C3C;
 }
+
+span {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: 6px;
+    background-color:  #E74C3C;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin: 25px;
+    cursor:pointer;
+  }
